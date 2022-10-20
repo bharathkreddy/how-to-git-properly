@@ -29,3 +29,8 @@ my notes on how to use git and version control properly.
     - What are the changes in reference to?
   - Optional footer
   
+RESOURCES :
+  [Fully automated version management and package publishing](https://github.com/semantic-release/semantic-release)
+  [Commit lint](https://github.com/conventional-changelog/commitlint)
+  [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+  [scemantic versioning](https://semver.org/)
