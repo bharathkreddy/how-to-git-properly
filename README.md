@@ -34,3 +34,5 @@ RESOURCES :
   2. [Commit lint](https://github.com/conventional-changelog/commitlint)
   3. [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
   4. [scemantic versioning](https://semver.org/)
+  5. [codecov](https://about.codecov.io/)
+  6. [commitizen](https://github.com/commitizen/cz-cli)
