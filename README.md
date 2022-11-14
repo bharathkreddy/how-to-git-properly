@@ -33,10 +33,11 @@ my notes on how to use git and version control properly.
 
 # GIT COMMANDS
   
-1. Installing Git
+1.Installing Git
+  '''
   sudo apt-get update
   sudo apt-get install Git
-
+  '''
 2. Verifying the installation
   git --version
 
